@@ -18,3 +18,4 @@ events.*
 *.mat
 *.zip
 ResNet50.h5
+yolo.h5
